@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Spidey\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3148011789.index
+\mailcasting\src
+C:\Users\Spidey\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1853763747.index
+\mailcasting\src
